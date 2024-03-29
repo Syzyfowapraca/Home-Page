@@ -1,0 +1,121 @@
+html {
+    box-sizing: border-box;
+
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: "Lato", sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+    line-height: 2;
+    background-color: azure;
+
+}
+
+.logo {
+    border-radius: 100px / 100px;
+    box-shadow: 0px 0px 32px 11px #62BEE0;
+    margin-right: 300px;
+    margin-top: 30px;
+
+}
+
+.link:hover {
+    color: #7b18d8fa;
+    font-weight: bolder;
+    outline: none;
+}
+
+.tableCell {
+    border: solid white;
+    padding: 20px;
+    text-align: center;
+}
+
+.tableheader {
+    background-color: rgba(20, 83, 143, 0.164);
+}
+
+.tablecell {
+    background-color: rgba(83, 136, 204, 0.384);
+    color: rgb(8, 8, 8);
+
+
+}
+
+.tablecell:hover {
+    background: #24b1d4;
+}
+
+.footer {
+
+    background-color: rgb(0, 14, 95);
+    font-family: 'Darker Grotesque', sans-serif;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+}
+
+.imglist {
+    color: rgb(2, 83, 175);
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+
+.imgtable {
+
+    width: 100%;
+    text-align: center;
+}
+
+.span {
+    color: rgb(25, 60, 216);
+}
+
+.Link {
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: bold;
+}
+
+.sublist {
+    list-style: none;
+    margin: 40px;
+}
+
+.itembutton {
+    margin-left: 200px;
+}
+
+.button {
+    font-size: 20px;
+    background-color: rgb(176, 216, 253);
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    width: 200px;
+    border-radius: 30px/50px;
+    border-color: rgb(176, 216, 253);
+    box-shadow: 5px -5px 5px 0px;
+}
+
+.button:hover {
+    color: #62BEE0;
+}
+
+.dark {
+    background-color: rgba(48, 90, 182, 0.863);
+    color: white;
+}
+
+
