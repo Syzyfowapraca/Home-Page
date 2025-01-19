@@ -10,6 +10,7 @@ https://syzyfowapraca.github.io/Home-Page/
 - Css
 - HTML
 - BEM convenion
+- Google Fonts
 
 
 
